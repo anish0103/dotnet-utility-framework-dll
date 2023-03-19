@@ -3,7 +3,7 @@
 <p align="center">This documentation is all about how to use utility framework in your project</p>
 
 <h1 align="center">Implementation Part</h1>
-<p>Firstly, create your desired model. To demonstrate, here we are going to create product model. Here, inside the table attribute write your table name associated to that model</p>
+<p>Firstly, you the developer need to download the given dll file and add reference of this dll to their project file. After that, create your desired model. To demonstrate, here we are going to create product model. Here, inside the table attribute write your table name associated to that model</p>
 
 ```c#
 [Table("products_tbl")]
